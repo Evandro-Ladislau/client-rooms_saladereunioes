@@ -1,27 +1,30 @@
-# ClientRoom
+# Gerenciador de Salas de Reuniões com Java e Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
+Front End que irá consumir essa API será uma SPA escrita em Angular.
 
-## Development server
+## 📦 Desenvolvimento
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Projeto final do Santander Bootcap FullStack Developer em parceria com a Digital Innovation One.
+Onde pude adquirir experiencias com diversas skill, consegui ter uma noção incrível do que é
+o trabalho real de um programador e sinto que desenvolvi muitas habilidades, 
+principalmente no back-end onde me senti mais a vontade.
 
-## Code scaffolding
+Cheguei ao fim de um processo que pra mim foi muito intenso, consiliar trabalho com estudos e ainda com prazo para terminar foi realmente desgastante.
+Mas o importante é que fiz o que deveria ser feito por isso cheguei até o fim dessa jornada. Agora darei continuidade com foco total até 
+alcançar meu objetivo da tão sonhada primeira oportunidade na área.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+## 🛠️ São necessários os seguintes pré-requisistos para a execução do projeto desenvolvido
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+* Angular: 12.2.4
+* Node versão 14.17.5
+* NPM versão 6.14.14
+* Visual Code Studio 
+* Controle de versão GIT instalado na sua máquina.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🎁 Expressões de gratidão
 
-## Running end-to-end tests
+* Meus mais sinceros agradecimentos ao Banco Santander e Digital innovation One por ter disponibilizado o processo seletivo para uma bolsa de estudos tão incrível como essa!
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+* Cada sonho que você deixa para trás, é um pedaço do seu futuro que deixa de existir :star_struck:
